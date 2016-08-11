@@ -1,0 +1,2 @@
+# plugindinowp
+Plugin Dino
